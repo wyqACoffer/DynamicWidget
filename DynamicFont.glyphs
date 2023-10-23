@@ -1,0 +1,311 @@
+{
+.appVersion = "3134";
+.formatVersion = 3;
+date = "2023-10-23 08:40:45 +0000";
+familyName = "Dynamic Font";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Regular;
+}
+);
+glyphs = (
+{
+glyphname = zero;
+lastChange = "2023-10-23 08:45:49 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/1.png";
+scale = (3.9062,3.9062);
+};
+layerId = "212A6CA6-8433-4E0D-823E-EAEAC4EC4631";
+name = "23年10月23日 16:44";
+width = 600;
+}
+);
+unicode = 48;
+},
+{
+glyphname = one;
+lastChange = "2023-10-23 08:45:32 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/2.png";
+scale = (3.9062,3.9062);
+};
+layerId = "612B7788-B9C0-4748-A8F9-508D9E1FBA99";
+name = "23年10月23日 16:45";
+width = 600;
+}
+);
+unicode = 49;
+},
+{
+glyphname = two;
+lastChange = "2023-10-23 08:46:03 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/3.png";
+scale = (3.9062,3.9062);
+};
+layerId = "E891A340-570C-4DB3-B549-C763347D0B8F";
+name = "23年10月23日 16:45";
+width = 600;
+}
+);
+unicode = 50;
+},
+{
+glyphname = three;
+lastChange = "2023-10-23 08:46:18 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/4.png";
+scale = (3.9062,3.9062);
+};
+layerId = "3DAE73BA-CDA0-481F-92E9-9CB5EB197C42";
+name = "23年10月23日 16:46";
+width = 600;
+}
+);
+unicode = 51;
+},
+{
+glyphname = four;
+lastChange = "2023-10-23 08:46:36 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/5.png";
+scale = (3.9062,3.9062);
+};
+layerId = "FBEA4F49-3302-41FF-BDC3-18A9AE51C95C";
+name = "23年10月23日 16:46";
+width = 600;
+}
+);
+unicode = 52;
+},
+{
+glyphname = five;
+lastChange = "2023-10-23 08:46:47 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/6.png";
+scale = (3.9062,3.9062);
+};
+layerId = "3AD73682-C6D7-4FAB-BDB2-09F2FFE03E8F";
+name = "23年10月23日 16:46";
+width = 600;
+}
+);
+unicode = 53;
+},
+{
+glyphname = six;
+lastChange = "2023-10-23 08:46:56 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/7.png";
+scale = (3.9062,3.9062);
+};
+layerId = "86133470-81D4-4629-B3B4-70A0C28E07C0";
+name = "23年10月23日 16:46";
+width = 600;
+}
+);
+unicode = 54;
+},
+{
+glyphname = seven;
+lastChange = "2023-10-23 08:47:06 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/8.png";
+scale = (3.9062,3.9062);
+};
+layerId = "DC360977-6245-4062-9E1B-C7EEC039BD2E";
+name = "23年10月23日 16:46";
+width = 600;
+}
+);
+unicode = 55;
+},
+{
+glyphname = eight;
+lastChange = "2023-10-23 08:53:47 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/9.png";
+scale = (3.9062,3.9062);
+};
+layerId = "9EAA2D6A-2BCC-4BCC-8FB9-A5BF32D820F4";
+name = "23年10月23日 16:53";
+width = 600;
+}
+);
+unicode = 56;
+},
+{
+glyphname = nine;
+lastChange = "2023-10-23 08:54:07 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+sbixSize = 256;
+};
+backgroundImage = {
+imagePath = "../../Downloads/animation_旋转太空人_2x2/animation_group1_10/10.png";
+scale = (3.9062,3.9062);
+};
+layerId = "87C1BC54-5A98-428E-AFDA-E33A84C2A668";
+name = "23年10月23日 16:53";
+width = 600;
+}
+);
+unicode = 57;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 200;
+}
+);
+unicode = 32;
+},
+{
+glyphname = colon;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 58;
+},
+{
+glyphname = ellipsis;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8230;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
