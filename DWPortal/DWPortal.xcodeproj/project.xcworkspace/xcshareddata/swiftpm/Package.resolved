@@ -1,0 +1,24 @@
+{
+  "originHash" : "7e2089b8874d8746c514e5b85be4d68350cdc8f2ce6abaa540fcfce32bbd1a6b",
+  "pins" : [
+    {
+      "identity" : "clockhandrotationkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/octree/ClockHandRotationKit",
+      "state" : {
+        "revision" : "a0bfb020f58f5065b7a4dc53ff10be1c6bb187db",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "86e9185ef41c4238a93ad8efe61ddeb701e80bbf",
+        "version" : "5.19.5"
+      }
+    }
+  ],
+  "version" : 3
+}
